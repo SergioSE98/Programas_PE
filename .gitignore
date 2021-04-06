@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+filtros_hvs_20_4_10-intervalo_20200601-20201231_SCO_.csv
+202006_202012_Meteo_SCO.csv
+202006_202012_Beta_Raw_Data.csv
